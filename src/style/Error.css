@@ -1,0 +1,53 @@
+.error-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f4f8fb;
+  font-family: Arial, sans-serif;
+}
+
+.error-content {
+  text-align: center;
+  max-width: 600px;
+  padding: 40px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+}
+
+.error-code {
+  font-size: 120px;
+  font-weight: bold;
+  color: #0054a6; /* ICICI Lombard blue */
+  margin: 0;
+}
+
+.error-message {
+  font-size: 28px;
+  font-weight: 600;
+  color: #333333;
+  margin: 15px 0;
+}
+
+.error-description {
+  font-size: 16px;
+  color: #666666;
+  margin-bottom: 30px;
+}
+
+.error-btn {
+  display: inline-block;
+  padding: 12px 28px;
+  background: #f58220; /* ICICI Lombard orange */
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
+}
+
+.error-btn:hover {
+  background: #d96b14;
+}

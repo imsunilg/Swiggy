@@ -1,0 +1,79 @@
+https://www.swiggy.com/dapi/restaurants/list/v5?lat=19.110366882422&lng=73.00358659721493&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING
+
+
+https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=19.110366882422&lng=73.00358659721493&restaurantId=28792&catalog_qa=undefined&submitAction=ENTER
+
+https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=19.117505970734232&lng=72.997374124825&restaurantId=34932&catalog_qa=undefined&submitAction=ENTER
+
+"info": {
+"id": "34932",
+"name": "Burger King",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/2889c7c2-de06-4e50-9808-7e1075b6a5d9_34932.jpg",
+"locality": "Navi Mumbai",
+"areaName": "Ghansoli",
+"costForTwo": "₹350 for two",
+"cuisines": [
+"Burgers",
+"American"
+],
+"avgRating": 4.4,
+"parentId": "166",
+"avgRatingString": "4.4",
+"totalRatingsString": "47K+",
+"sla": {
+"deliveryTime": 24,
+"lastMileTravel": 1.1,
+"serviceability": "SERVICEABLE",
+"slaString": "20-25 mins",
+"lastMileTravelString": "1.1 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-08-15 06:00:00",
+"opened": true
+},
+"badges": {},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹59",
+"discountCalloutInfo": {
+"message": "Free Delivery",
+"logoCtx": {
+"logo": "v1655895371/free_delivery_logo_hqipbo.png"
+}
+}
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-b15e17e7-9d7d-4b76-86bd-46bc93f2cbb6"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/burger-king-navi-ghansoli-rest34932",
+"type": "WEBLINK"
+}
+},

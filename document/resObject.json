@@ -1,0 +1,1711 @@
+[
+                                    {
+                                        "info": {
+                                            "id": "34932",
+                                            "name": "Burger King",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/2889c7c2-de06-4e50-9808-7e1075b6a5d9_34932.jpg",
+                                            "locality": "Navi Mumbai",
+                                            "areaName": "Ghansoli",
+                                            "costForTwo": "₹350 for two",
+                                            "cuisines": [
+                                                "Burgers",
+                                                "American"
+                                            ],
+                                            "avgRating": 4.4,
+                                            "parentId": "166",
+                                            "avgRatingString": "4.4",
+                                            "totalRatingsString": "47K+",
+                                            "sla": {
+                                                "deliveryTime": 26,
+                                                "lastMileTravel": 0.9,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "25-30 mins",
+                                                "lastMileTravelString": "0.9 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 06:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹49",
+                                                "discountCalloutInfo": {
+                                                    "message": "Free Delivery",
+                                                    "logoCtx": {
+                                                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                                                    }
+                                                }
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/burger-king-navi-ghansoli-rest34932",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "747134",
+                                            "name": "Domino's Pizza",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/8/8/733e8c42-626a-4888-8100-4ffa0cec2ce8_747134.JPG",
+                                            "locality": "Sector 8",
+                                            "areaName": "Ghansoli",
+                                            "costForTwo": "₹400 for two",
+                                            "cuisines": [
+                                                "Pizzas",
+                                                "Italian",
+                                                "Pastas",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.3,
+                                            "parentId": "2456",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "1.3K+",
+                                            "sla": {
+                                                "deliveryTime": 30,
+                                                "lastMileTravel": 0.7,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "25-30 mins",
+                                                "lastMileTravelString": "0.7 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 02:55:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹68"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/dominos-pizza-sector-8-ghansoli-rest747134",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "742517",
+                                            "name": "Subway",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/12/d5f99918-4b4a-47fc-8fd5-c21e9d4e43db_742517.jpg",
+                                            "locality": "Aashiv apartment",
+                                            "areaName": "Koperkhairane",
+                                            "costForTwo": "₹350 for two",
+                                            "cuisines": [
+                                                "sandwich",
+                                                "Salads",
+                                                "wrap",
+                                                "Healthy Food"
+                                            ],
+                                            "avgRating": 4.3,
+                                            "parentId": "2",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "3.0K+",
+                                            "sla": {
+                                                "deliveryTime": 24,
+                                                "lastMileTravel": 2.3,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "20-25 mins",
+                                                "lastMileTravelString": "2.3 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 04:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹69",
+                                                "discountCalloutInfo": {
+                                                    "message": "Free Delivery",
+                                                    "logoCtx": {
+                                                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                                                    }
+                                                }
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/subway-aashiv-apartment-koperkhairane-rest742517",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "448090",
+                                            "name": "La Pino'z Pizza",
+                                            "cloudinaryImageId": "asgscfmehjbhkfgu4yap",
+                                            "locality": "Vashi",
+                                            "areaName": "Vashi",
+                                            "costForTwo": "₹550 for two",
+                                            "cuisines": [
+                                                "Pizzas",
+                                                "Pastas",
+                                                "Italian",
+                                                "Desserts",
+                                                "Beverages"
+                                            ],
+                                            "avgRating": 4.2,
+                                            "parentId": "4961",
+                                            "avgRatingString": "4.2",
+                                            "totalRatingsString": "5.1K+",
+                                            "sla": {
+                                                "deliveryTime": 35,
+                                                "lastMileTravel": 3.9,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "3.9 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 06:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                                                        "description": "Delivery!"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹69",
+                                                "discountCalloutInfo": {
+                                                    "message": "Free Delivery",
+                                                    "logoCtx": {
+                                                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                                                    }
+                                                }
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "3.6",
+                                                    "ratingCount": "429"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/la-pinoz-pizza-vashi-rest448090",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "423976",
+                                            "name": "KFC",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/89fdd45c-1046-46eb-8b1b-736dc1f8c82a_423976.JPG",
+                                            "locality": "Koparkhairne",
+                                            "areaName": "Kopar Khairane",
+                                            "costForTwo": "₹400 for two",
+                                            "cuisines": [
+                                                "Burgers",
+                                                "Fast Food",
+                                                "Rolls & Wraps"
+                                            ],
+                                            "avgRating": 4.2,
+                                            "parentId": "547",
+                                            "avgRatingString": "4.2",
+                                            "totalRatingsString": "6.6K+",
+                                            "sla": {
+                                                "deliveryTime": 27,
+                                                "lastMileTravel": 3,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "25-30 mins",
+                                                "lastMileTravelString": "3.0 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 04:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹125 OFF",
+                                                "subHeader": "ABOVE ₹999",
+                                                "discountTag": "FLAT DEAL",
+                                                "discountCalloutInfo": {
+                                                    "message": "Free Delivery",
+                                                    "logoCtx": {
+                                                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                                                    }
+                                                }
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "4.3",
+                                                    "ratingCount": "1.4K+"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/kfc-koparkhairne-kopar-khairane-rest423976",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "759230",
+                                            "name": "Wow! Momo",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/30/e260db0a-1074-4f78-8661-8259000b0556_759230.jpg",
+                                            "locality": "Navi Mumbai",
+                                            "areaName": "Sector29",
+                                            "costForTwo": "₹300 for two",
+                                            "cuisines": [
+                                                "Momos",
+                                                "Chinese",
+                                                "fastfood",
+                                                "Asian",
+                                                "Beverages"
+                                            ],
+                                            "avgRating": 4.3,
+                                            "parentId": "1776",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "785",
+                                            "sla": {
+                                                "deliveryTime": 37,
+                                                "lastMileTravel": 3.9,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "35-40 mins",
+                                                "lastMileTravelString": "3.9 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 03:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹69",
+                                                "discountCalloutInfo": {
+                                                    "message": "Free Delivery",
+                                                    "logoCtx": {
+                                                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                                                    }
+                                                }
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/wow-momo-navi-sector29-rest759230",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "326140",
+                                            "name": "Cafe Coffee Day",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/30/c816b9c3-b422-4ead-aec4-9aa6b7d83590_326140.JPG",
+                                            "locality": "Kopar Khairane",
+                                            "areaName": "Kopar Khairane",
+                                            "costForTwo": "₹400 for two",
+                                            "cuisines": [
+                                                "Beverages",
+                                                "Cafe",
+                                                "Snacks",
+                                                "Desserts",
+                                                "Burgers",
+                                                "Ice Cream",
+                                                "Bakery",
+                                                "Fast Food"
+                                            ],
+                                            "avgRating": 4.5,
+                                            "parentId": "1",
+                                            "avgRatingString": "4.5",
+                                            "totalRatingsString": "1.3K+",
+                                            "sla": {
+                                                "deliveryTime": 30,
+                                                "lastMileTravel": 2.7,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "2.7 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-23 00:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "textExtendedBadges": [
+                                                    {
+                                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                                        "shortDescription": "options available",
+                                                        "fontColor": "#7E808C"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "",
+                                                                    "fontColor": "#7E808C",
+                                                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                                                    "shortDescription": "options available"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "50% OFF",
+                                                "subHeader": "UPTO ₹100",
+                                                "discountCalloutInfo": {
+                                                    "message": "Free Delivery",
+                                                    "logoCtx": {
+                                                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                                                    }
+                                                }
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "4.3",
+                                                    "ratingCount": "1.1K+"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/cafe-coffee-day-kopar-khairane-rest326140",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "377797",
+                                            "name": "Pizza Hut",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/9/e9c126a2-faff-42e6-88f7-7feaf452f46b_377797.JPG",
+                                            "locality": "Jijamata Nagar",
+                                            "areaName": "Ghansoli",
+                                            "costForTwo": "₹350 for two",
+                                            "cuisines": [
+                                                "Pizzas"
+                                            ],
+                                            "avgRating": 4.1,
+                                            "parentId": "721",
+                                            "avgRatingString": "4.1",
+                                            "totalRatingsString": "3.3K+",
+                                            "sla": {
+                                                "deliveryTime": 37,
+                                                "lastMileTravel": 0.3,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "35-40 mins",
+                                                "lastMileTravelString": "0.3 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 05:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                                                        "description": "Delivery!"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹59",
+                                                "discountCalloutInfo": {
+                                                    "message": "Free Delivery",
+                                                    "logoCtx": {
+                                                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                                                    }
+                                                }
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/pizza-hut-jijamata-nagar-ghansoli-rest377797",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "728716",
+                                            "name": "Olio - The Wood Fired Pizzeria",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/17/3e0d325d-267f-415f-8da8-8f7d4169957f_728716.JPG",
+                                            "locality": "Vashi",
+                                            "areaName": "Vashi Navi Mumbai",
+                                            "costForTwo": "₹300 for two",
+                                            "cuisines": [
+                                                "Pizzas",
+                                                "Pastas",
+                                                "Italian",
+                                                "Fast Food",
+                                                "Snacks",
+                                                "Beverages",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.3,
+                                            "parentId": "11633",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "2.0K+",
+                                            "sla": {
+                                                "deliveryTime": 46,
+                                                "lastMileTravel": 5,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "45-55 mins",
+                                                "lastMileTravelString": "5.0 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 05:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "newg.png",
+                                                        "description": "Gourmet"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Gourmet",
+                                                                    "imageId": "newg.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹99",
+                                                "discountCalloutInfo": {
+                                                    "message": "Free Delivery",
+                                                    "logoCtx": {
+                                                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                                                    }
+                                                }
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/olio-the-wood-fired-pizzeria-vashi-vashi-navi-mumbai-rest728716",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "185380",
+                                            "name": "Keventers - Milkshakes & Desserts",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/8/8/70ad91f7-9326-41c7-bb60-90dc5e99d5d9_185380.JPG",
+                                            "locality": "XPERIA MAL",
+                                            "areaName": "DOMBIVALI",
+                                            "costForTwo": "₹200 for two",
+                                            "cuisines": [
+                                                "Beverages",
+                                                "Ice Cream",
+                                                "Desserts",
+                                                "Healthy Food"
+                                            ],
+                                            "avgRating": 4.3,
+                                            "veg": true,
+                                            "parentId": "268997",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "1.3K+",
+                                            "sla": {
+                                                "deliveryTime": 89,
+                                                "lastMileTravel": 13.1,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "85-90 mins",
+                                                "lastMileTravelString": "13.1 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 03:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "textExtendedBadges": [
+                                                    {
+                                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                                        "shortDescription": "options available",
+                                                        "fontColor": "#7E808C"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "",
+                                                                    "fontColor": "#7E808C",
+                                                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                                                    "shortDescription": "options available"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "40% OFF",
+                                                "subHeader": "UPTO ₹80"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/keventers-milkshakes-and-desserts-xperia-mal-dombivali-rest185380",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "348803",
+                                            "name": "Baskin Robbins - Ice Cream Desserts",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/24/95f4bd10-f579-4470-a5e9-10563725d271_348803.JPG",
+                                            "locality": "Sector 4-Nerul",
+                                            "areaName": "Nerul",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "Desserts",
+                                                "Ice Cream"
+                                            ],
+                                            "avgRating": 4.7,
+                                            "veg": true,
+                                            "parentId": "5588",
+                                            "avgRatingString": "4.7",
+                                            "totalRatingsString": "1.3K+",
+                                            "sla": {
+                                                "deliveryTime": 41,
+                                                "lastMileTravel": 9.6,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "40-50 mins",
+                                                "lastMileTravelString": "9.6 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 03:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "Ratnesh_Badges/Rx_Awards_2025/Icecream.png",
+                                                        "description": "Delivery!"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Ratnesh_Badges/Rx_Awards_2025/Icecream.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹79"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/baskin-robbins-ice-cream-desserts-sector-4-nerul-rest348803",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "495904",
+                                            "name": "Starbucks Coffee",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/8/4/877c3b3e-f01c-4b9b-85ca-d4d3fc4bb41d_495904.JPG",
+                                            "locality": "Shah Signature Building",
+                                            "areaName": "Sector 17",
+                                            "costForTwo": "₹400 for two",
+                                            "cuisines": [
+                                                "Beverages",
+                                                "Cafe",
+                                                "Snacks",
+                                                "Desserts",
+                                                "Bakery",
+                                                "Ice Cream"
+                                            ],
+                                            "avgRating": 4.6,
+                                            "parentId": "195515",
+                                            "avgRatingString": "4.6",
+                                            "totalRatingsString": "1.6K+",
+                                            "sla": {
+                                                "deliveryTime": 40,
+                                                "lastMileTravel": 5.8,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "35-40 mins",
+                                                "lastMileTravelString": "5.8 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 04:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Cafe.png",
+                                                        "description": "Delivery!"
+                                                    },
+                                                    {
+                                                        "imageId": "Rxawards/_CATEGORY-Cafe%20&%20Chai.png",
+                                                        "description": "Delivery!"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Cafe.png"
+                                                                }
+                                                            },
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Rxawards/_CATEGORY-Cafe%20&%20Chai.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹150 OFF",
+                                                "subHeader": "ABOVE ₹699",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/starbucks-coffee-shah-signature-building-sector-17-rest495904",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "580637",
+                                            "name": "Good Flippin' Burgers",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/8/8/7878de4f-ded6-4838-a988-80b59532aab7_580637.JPG",
+                                            "locality": "Vashi",
+                                            "areaName": "Vashi",
+                                            "costForTwo": "₹600 for two",
+                                            "cuisines": [
+                                                "Burgers",
+                                                "American",
+                                                "Fast Food",
+                                                "Beverages"
+                                            ],
+                                            "avgRating": 4.6,
+                                            "parentId": "11748",
+                                            "avgRatingString": "4.6",
+                                            "totalRatingsString": "3.2K+",
+                                            "sla": {
+                                                "deliveryTime": 41,
+                                                "lastMileTravel": 5.9,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "40-50 mins",
+                                                "lastMileTravelString": "5.9 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 05:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "Rxawards/_CATEGORY-Burger.png",
+                                                        "description": "Delivery!"
+                                                    },
+                                                    {
+                                                        "imageId": "Ratnesh_Badges/Rx_Awards_2025/Newcomers.png",
+                                                        "description": "Delivery!"
+                                                    },
+                                                    {
+                                                        "imageId": "newg.png",
+                                                        "description": "Gourmet"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Rxawards/_CATEGORY-Burger.png"
+                                                                }
+                                                            },
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Ratnesh_Badges/Rx_Awards_2025/Newcomers.png"
+                                                                }
+                                                            },
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Gourmet",
+                                                                    "imageId": "newg.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹195"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "4.6",
+                                                    "ratingCount": "863"
+                                                },
+                                                "source": "GOOGLE",
+                                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/good-flippin-burgers-vashi-rest580637",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "728717",
+                                            "name": "Crusto's - Cheese Burst Pizza By Olio",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/26/38011c44-f39d-4d68-84e8-b6c024ed2fde_728717.jpg",
+                                            "locality": "Vashi",
+                                            "areaName": "Vashi Navi Mumbai",
+                                            "costForTwo": "₹300 for two",
+                                            "cuisines": [
+                                                "Pizzas",
+                                                "Pastas",
+                                                "Italian",
+                                                "Fast Food",
+                                                "Snacks",
+                                                "Beverages",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.2,
+                                            "parentId": "268955",
+                                            "avgRatingString": "4.2",
+                                            "totalRatingsString": "278",
+                                            "sla": {
+                                                "deliveryTime": 52,
+                                                "lastMileTravel": 5.6,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "50-60 mins",
+                                                "lastMileTravelString": "5.6 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 05:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹69"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/crustos-cheese-burst-pizza-by-olio-vashi-vashi-navi-mumbai-rest728717",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "328876",
+                                            "name": "Charcoal Eats - Biryani & Beyond",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/6/759012e9-3437-46ba-9490-68fe85b98e62_328876.jpg",
+                                            "locality": "Navi Mumbai",
+                                            "areaName": "APMC Market",
+                                            "costForTwo": "₹499 for two",
+                                            "cuisines": [
+                                                "Biryani",
+                                                "Kebabs",
+                                                "North Indian",
+                                                "Mughlai"
+                                            ],
+                                            "avgRating": 4.3,
+                                            "parentId": "5338",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "3.9K+",
+                                            "sla": {
+                                                "deliveryTime": 41,
+                                                "lastMileTravel": 4.4,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "40-50 mins",
+                                                "lastMileTravelString": "4.4 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 03:45:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "textExtendedBadges": [
+                                                    {
+                                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                                        "shortDescription": "options available",
+                                                        "fontColor": "#7E808C"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "",
+                                                                    "fontColor": "#7E808C",
+                                                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                                                    "shortDescription": "options available"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "ITEMS",
+                                                "subHeader": "AT ₹185",
+                                                "discountCalloutInfo": {
+                                                    "message": "Free Delivery",
+                                                    "logoCtx": {
+                                                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                                                    }
+                                                }
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/charcoal-eats-biryani-and-beyond-navi-apmc-market-rest328876",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "831239",
+                                            "name": "Pastas By Pizza Hut",
+                                            "cloudinaryImageId": "dce75bf0d124fb1fa390597828d8ffd9",
+                                            "locality": "Sector 1",
+                                            "areaName": "Nerul",
+                                            "costForTwo": "₹400 for two",
+                                            "cuisines": [
+                                                "Pastas"
+                                            ],
+                                            "avgRating": 3.9,
+                                            "parentId": "306806",
+                                            "avgRatingString": "3.9",
+                                            "totalRatingsString": "72",
+                                            "sla": {
+                                                "deliveryTime": 51,
+                                                "lastMileTravel": 9.7,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "50-60 mins",
+                                                "lastMileTravelString": "9.7 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 05:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "textExtendedBadges": [
+                                                    {
+                                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                                        "shortDescription": "options available",
+                                                        "fontColor": "#7E808C"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "",
+                                                                    "fontColor": "#7E808C",
+                                                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                                                    "shortDescription": "options available"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹125 OFF",
+                                                "subHeader": "ABOVE ₹299",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/pastas-by-pizza-hut-sector-1-nerul-rest831239",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "417301",
+                                            "name": "NOTO Ice Cream and Desserts",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/12/63902279-1a22-4f92-8e82-fcac8c64a157_417301.jpg",
+                                            "locality": "Sector-29",
+                                            "areaName": "Vashi",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "Ice Cream",
+                                                "Desserts",
+                                                "Healthy Food"
+                                            ],
+                                            "avgRating": 4.7,
+                                            "veg": true,
+                                            "parentId": "492773",
+                                            "avgRatingString": "4.7",
+                                            "totalRatingsString": "591",
+                                            "sla": {
+                                                "deliveryTime": 51,
+                                                "lastMileTravel": 7.1,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "50-60 mins",
+                                                "lastMileTravelString": "7.1 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 03:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "textExtendedBadges": [
+                                                    {
+                                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                                        "shortDescription": "brand",
+                                                        "fontColor": "#7E808C"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "",
+                                                                    "fontColor": "#7E808C",
+                                                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                                                    "shortDescription": "brand"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹125 OFF",
+                                                "subHeader": "ABOVE ₹499",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/noto-ice-cream-and-desserts-sector-29-vashi-rest417301",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "375633",
+                                            "name": "Gourmet Ice Cream Cakes by Baskin Robbins",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/28e56d95-4b8e-43ab-8d2a-8718535b92fc_375633.JPG",
+                                            "locality": "Sector 4-Nerul",
+                                            "areaName": "Nerul",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "Ice Cream Cakes",
+                                                "Desserts",
+                                                "Ice Cream",
+                                                "Bakery"
+                                            ],
+                                            "avgRating": 4.2,
+                                            "veg": true,
+                                            "parentId": "21932",
+                                            "avgRatingString": "4.2",
+                                            "totalRatingsString": "87",
+                                            "sla": {
+                                                "deliveryTime": 47,
+                                                "lastMileTravel": 9.6,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "45-55 mins",
+                                                "lastMileTravelString": "9.6 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 03:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "newg.png",
+                                                        "description": "Gourmet"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Gourmet",
+                                                                    "imageId": "newg.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹75 OFF",
+                                                "subHeader": "ABOVE ₹499",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/gourmet-ice-cream-cakes-by-baskin-robbins-sector-4-nerul-rest375633",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "537239",
+                                            "name": "Baskin Robbins Happyness Shakes",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/26c542dd-7814-4061-a607-e83a3ab88874_537239.jpg",
+                                            "locality": "Sector 4-Nerul",
+                                            "areaName": "Nerul",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "Beverages",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.8,
+                                            "veg": true,
+                                            "parentId": "322848",
+                                            "avgRatingString": "4.8",
+                                            "totalRatingsString": "16",
+                                            "sla": {
+                                                "deliveryTime": 31,
+                                                "lastMileTravel": 9.6,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "9.6 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 03:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹75 OFF",
+                                                "subHeader": "ABOVE ₹499",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/baskin-robbins-happyness-shakes-sector-4-nerul-rest537239",
+                                            "type": "WEBLINK"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "383302",
+                                            "name": "Spice It - IBIS Hotel",
+                                            "cloudinaryImageId": "ft8i8vt1ckd3nkelbynu",
+                                            "locality": "Turbhe Thane",
+                                            "areaName": "Vashi",
+                                            "costForTwo": "₹400 for two",
+                                            "cuisines": [
+                                                "Snacks",
+                                                "Beverages"
+                                            ],
+                                            "avgRating": 4.2,
+                                            "parentId": "192112",
+                                            "avgRatingString": "4.2",
+                                            "totalRatingsString": "13",
+                                            "sla": {
+                                                "deliveryTime": 55,
+                                                "lastMileTravel": 7.5,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "55-65 mins",
+                                                "lastMileTravelString": "7.5 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2025-08-16 23:59:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "10% OFF",
+                                                "subHeader": "ABOVE ₹1500",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {},
+                                            "externalRatings": {
+                                                "aggregatedRating": {
+                                                    "rating": "--"
+                                                }
+                                            },
+                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                                        },
+                                        "analytics": {
+                                            "context": "seo-data-72beab79-e814-4887-b79d-9225ef4a365c"
+                                        },
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/city/mumbai/spice-it-ibis-hotel-turbhe-thane-vashi-rest383302",
+                                            "type": "WEBLINK"
+                                        }
+                                    }
+                                ]

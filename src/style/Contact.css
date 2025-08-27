@@ -1,0 +1,132 @@
+.contact-page {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #f8f9fa;
+  color: #333;
+}
+
+/* Hero Banner */
+.contact-hero {
+  background: linear-gradient(rgba(0,51,102,0.85), rgba(0,51,102,0.85)),
+              url("https://www.icicilombard.com/content/dam/icicilombard/banner/contact-banner.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+}
+
+.hero-overlay h1 {
+  font-size: 38px;
+  margin-bottom: 10px;
+}
+
+.hero-overlay p {
+  font-size: 18px;
+  max-width: 700px;
+  margin: auto;
+}
+
+/* Contact Info */
+.contact-info {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin: 50px auto;
+  max-width: 1000px;
+}
+
+.info-box {
+  background: white;
+  border-left: 6px solid #f37021; /* ICICI Orange */
+  padding: 20px;
+  border-radius: 10px;
+  width: 280px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+}
+
+.info-box h3 {
+  font-size: 20px;
+  color: #003366;
+  margin-bottom: 10px;
+}
+
+.info-box p {
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+/* Form */
+.contact-form {
+  text-align: center;
+  margin: 60px auto;
+  max-width: 600px;
+}
+
+.contact-form h2 {
+  font-size: 28px;
+  color: #003366;
+  margin-bottom: 20px;
+}
+
+.contact-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact-form input, 
+.contact-form textarea {
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.contact-form button {
+  background: #003366;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.contact-form button:hover {
+  background: #f37021;
+}
+
+/* Map */
+.map-section {
+  text-align: center;
+  margin: 60px auto;
+}
+
+.map-section h2 {
+  font-size: 26px;
+  color: #003366;
+  margin-bottom: 20px;
+}
+
+.map-box {
+  max-width: 900px;
+  margin: auto;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+.contact-footer {
+  background: #003366;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 16px;
+}

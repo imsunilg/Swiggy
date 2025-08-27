@@ -1,0 +1,138 @@
+.about-page {
+  font-family: "Segoe UI", Arial, sans-serif;
+  color: #333;
+  background: #f8f9fa;
+}
+
+/* Hero Banner */
+.hero-banner {
+  background: linear-gradient(rgba(0,51,102,0.8), rgba(0,51,102,0.8)),
+              url("https://www.icicilombard.com/content/dam/icicilombard/banner/office-banner.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+}
+
+.hero-overlay h1 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.hero-overlay p {
+  font-size: 18px;
+  max-width: 700px;
+  margin: auto;
+}
+
+/* About Section */
+.about-section {
+  text-align: center;
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+
+.about-section h2 {
+  font-size: 30px;
+  color: #003366;
+  margin-bottom: 15px;
+}
+
+.about-section p {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #555;
+}
+
+/* Vision & Mission */
+.vision-mission {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  max-width: 1000px;
+  margin: 60px auto;
+  flex-wrap: wrap;
+}
+
+.vision-box, .mission-box {
+  background: white;
+  flex: 1;
+  min-width: 300px;
+  padding: 30px;
+  border-left: 6px solid #f37021;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+.vision-box h3, .mission-box h3 {
+  font-size: 22px;
+  color: #003366;
+  margin-bottom: 10px;
+}
+
+/* Team Section */
+.team-section {
+  text-align: center;
+  margin: 70px 20px;
+}
+
+.team-section h2 {
+  font-size: 30px;
+  color: #003366;
+  margin-bottom: 40px;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 30px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.team-card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+  transition: transform 0.3s;
+}
+
+.team-card:hover {
+  transform: translateY(-6px);
+}
+
+.team-card img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 3px solid #003366;
+  margin-bottom: 15px;
+}
+
+.team-card h4 {
+  font-size: 18px;
+  color: #003366;
+  margin: 10px 0 5px;
+}
+
+.team-card p {
+  font-size: 14px;
+  color: #777;
+}
+
+/* Footer */
+.about-footer {
+  background: #003366;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  margin-top: 50px;
+}
