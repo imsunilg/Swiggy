@@ -95,13 +95,9 @@ setMasterListOfRestaurants(restaurants);
       </div>
 <div className="flex flex-wrap gap-4">
   {listOfRestaurants.map((restaurant, index) => (
-    <Link
-      to={"/restaurants/" + restaurant.info.id}
-      key={restaurant.info.id || index}
-    >
-      <RestaurantCard
-        key={restaurant.info.id || index}
-        resData={restaurant}
+    <Link to={"/restaurants/" + restaurant.info.id} key={restaurant.info.id || index} >
+      
+      <RestaurantCard key={restaurant.info.id || index} resData={restaurant}
         className="w-64 h-80 flex flex-col justify-between border border-gray-300 rounded-lg shadow hover:shadow-lg transition"
       />
     </Link>
